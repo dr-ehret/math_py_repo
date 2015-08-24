@@ -11,7 +11,6 @@ print(numpy.sqrt(8))
 print(sympy.sqrt(8)) # => simplifies symbolically: 2*sqrt(2)
 
 
-##
 
 x, y = symbols('x y')
 expr = x + 2*y
