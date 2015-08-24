@@ -5,7 +5,7 @@ list_two = [6,7,8,9,10]
 
 print(list_one + list_two)
 
-# if container is a numpy array, places will be added:
+# if container is a numpy array, index places will be added:
 
 from numpy import *
 
